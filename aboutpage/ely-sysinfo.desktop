@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=System Information
+Comment=ElysiaOS System Information
+Exec=about_system
+Icon=ely-sysabout
+Terminal=false
+Categories=Graphics;Network;
+Keywords=elysia;honkai;system;
